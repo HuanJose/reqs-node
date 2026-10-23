@@ -1,0 +1,21 @@
+{
+  "name": "@huanjose/reqs-node",
+  "version": "1.0.0",
+  "description": "Assistente interativo de terminal para exportar e instalar dependências NPM e Expo via requirements.txt",
+  "main": "index.js",
+  "bin": {
+    "reqs-node": "index.js"
+  },
+  "keywords": [
+    "cli",
+    "dependencies",
+    "expo",
+    "npm",
+    "requirements"
+  ],
+  "author": "Huan José Godoy Torrres Mizael",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
